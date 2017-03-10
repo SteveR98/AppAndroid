@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моя фотография игрок</string>
+    <string name="mensajebotonsi">Да</string>
+    <string name="mensajebotono">Нет</string>
+    <string name="mensajesi">♥♥♥ ЕСЛИ ВЫ ЛЮБИТЕ ♥♥♥</string>
+    <string name="mensajeno">NEIN NEIN NEIN (RUS)</string>
+</resources>

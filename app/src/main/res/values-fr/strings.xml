@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MonLecteurDePhoto</string>
+    <string name="mensajebotonsi">OUI</string>
+    <string name="mensajebotono">NON</string>
+    <string name="mensajesi">♥♥♥ SI VOUS AIMEZ  ♥♥♥</string>
+    <string name="mensajeno">NEIN NEIN NEIN (FR)</string>
+</resources>

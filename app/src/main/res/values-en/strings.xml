@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyPhotoPlayer</string>
+    <string name="mensajebotono">NO</string>
+    <string name="mensajebotonsi">YES</string>
+    <string name="mensajesi">"♥♥♥ Yes you like it ♥♥♥ "</string>
+    <string name="mensajeno">NEIN NEIN NEIN (EN)</string>
+</resources>
