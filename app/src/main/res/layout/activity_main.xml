@@ -4,6 +4,7 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/colorMine"
     tools:context="val.femxa.cam.edu.mifotoplayer.MainActivity"
     android:orientation="vertical">
 
@@ -15,25 +16,30 @@
         android:layout_weight="80"/>
 
     <LinearLayout
-        android:layout_width="155dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         android:layout_gravity="center" android:layout_weight="20">
 
 
         <Button
-            android:layout_width="76dp"
-            android:layout_height="wrap_content"
-            android:text="@string/mensajebotonsi"
+            android:layout_width="188dp"
+            android:layout_height="match_parent"
+            android:drawableBottom="@drawable/ic_sentiment_very_satisfied"
             android:id="@+id/si"
-            />
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:text="ME GUSTA" />
 
         <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/mensajebotono"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:drawableLeft="@drawable/ic_sentiment_very_dissatisfied"
             android:id="@+id/no"
-             />
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:text="NO ME GUSTA"
+            android:textAlignment="center">
 
-            </LinearLayout>
+        </Button>
+
+    </LinearLayout>
 </LinearLayout>
